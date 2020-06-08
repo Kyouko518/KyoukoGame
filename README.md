@@ -1,31 +1,35 @@
-# Foreword
-The website is a picture sharing website based on PHP, JavaScript, Html and CSS technologies.
-Before lauching the software, you should import our database, import the imageweb_image.sql and imageweb_user into your MySql. The name of database if called "imageWeb". You should use the same name when creating the database.
+## Foreword
+Do you get the KyoukoGame.zip?
 
-Then, import our code into your IDE. The file is imageWeb.zip.
+# If the answer is Yes, just extract the files and click .exe file to start the game!
 
-Change the code in DB_Connection to connect with the database. Still you will have to change some of the other attributes of the database, including the username, the password and the local address.
+# If the answer is No, you need to follow the steps below:
+Import the code into your Unreal Engine 4. The folder name is Final Game. 
+(This game is developed by using Unreal Engine 4 version 4.24.)
+Click WuQinyangGame.uproject to start the project.
+Click File -> Package Project -> Windows -> Windows (64-bit)
+Choose the position you want to place the game.
+Wait for the project to be packaged.
+# Now, Click .exe file to start the game!
 
-After all, congratulations. You can start with all things been done!
 ******
 ## Introduction
-- Start with the start.html!
+- You will be born in front of the town gate. This town is persecuted by pollution, Go in and explore the town. There will have NPCs to give you missions and try to do something to reduce the pollution rate. Also, you can buy and sell things from NPCs.
 
-- The default images
-   - We now have already implemented several initial images recipes in the website.
+- For the start up movie, you can left click to skip.
+[W][A][S][D] for moving.
+[Space] for jump.
+Mouse for change the view.
+[E] for interact with nearby objects.
+[ESC] to close the mission journal.
+[Left Alt] for call the cursor.
+[Tab] for checking package.
+[B] for slide in/out the mission list.
 
-- About memory page:   
-   - There is the world for your memory. Check your uploaded pictures here.
-   - The view mode supports sort by date.
-
-- About search page:
-   - Viewing the picture world established by all the users.
-   - The view mode supports sort by date.
-   - The view mode supports classify by labels.
 
 - Thanks for using.
 
-If you have any questions, please contact us by E-mail mentioned below. Cheers!
+If you have any questions, please contact me by E-mail mentioned below. Cheers!
 *****
-##### Author: @Group B
+##### Author: Wu Qinyang
 ##### E-mail: qinyang.wu@th-luebeck.de
