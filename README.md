@@ -16,8 +16,7 @@ Wait for the project to be packaged.
 # Introduction
 You will be born in front of the town gate. This town is persecuted by pollution, Go in and explore the town. There will have NPCs to give you missions and try to do something to reduce the pollution rate. Also, you can buy and sell things from NPCs.
 
-Some operating instructions：
-
+Some operating instructions： 
 - For the start up movie, you can left click to skip.
 - [W][A][S][D] for moving forward, left, backward and right.
 - [Space] to jump.
